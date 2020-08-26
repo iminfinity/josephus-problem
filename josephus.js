@@ -80,5 +80,5 @@ while (josephus.length() > 2) {
   currNode = josephus.killThird(currNode);
 }
 
-console.log(" \n Josephus and his friend shoud sit at no: ")
+console.log(" \n Josephus and his friend should sit at no: ")
 josephus.display();
