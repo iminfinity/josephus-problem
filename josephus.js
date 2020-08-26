@@ -75,10 +75,13 @@ for (let i = 1; i < 41; i++) {
 }
 josephus.display();
 
+
+console.log("\nStart Mayhem\n");
+
 let currNode = josephus.head;
 while (josephus.length() > 2) {
   currNode = josephus.killThird(currNode);
 }
 
-console.log(" \n Josephus and his friend should sit at no: ")
+console.log(" \n Josephus and his friend should sit at no: ");
 josephus.display();
