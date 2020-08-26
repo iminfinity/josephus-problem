@@ -44,6 +44,9 @@ __According to legend, the first-century Jewish historian Flavius Josephus was a
 38
 39
 40
+
+Start Mayhem
+
 Killed 3
 Killed 6
 Killed 9
@@ -86,6 +89,7 @@ Killed 32
  Josephus and his friend should sit at no:
 13
 28
+
 ```
 
 # [Code](https://raw.githubusercontent.com/iminfinity/josephus-problem/master/josephus.js?token=AE37GQ7577EAMJE3L6D5KSC7IYGIY)
