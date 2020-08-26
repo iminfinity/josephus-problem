@@ -1,2 +1,2 @@
-# interesting-problems
+# josephus-problem
 Interesting Problems
