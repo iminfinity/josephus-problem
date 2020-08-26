@@ -87,3 +87,5 @@ Killed 32
 13
 28
 ```
+
+# [Code](https://raw.githubusercontent.com/iminfinity/josephus-problem/master/josephus.js?token=AE37GQ7577EAMJE3L6D5KSC7IYGIY)
