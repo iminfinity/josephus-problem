@@ -15,7 +15,6 @@ function LinkedList() {
   };
 
   this.killThird = (currNode) => {
-    console.log("Kill Third");
     let i = 3;
     while (i > 0 && currNode != null) {
       currNode = currNode.next;
@@ -80,4 +79,6 @@ let currNode = josephus.head;
 while (josephus.length() > 2) {
   currNode = josephus.killThird(currNode);
 }
+
+console.log(" \n Josephus and his friend shoud sit at no: ")
 josephus.display();
